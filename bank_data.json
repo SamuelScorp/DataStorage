@@ -1,5 +1,32 @@
-{
-  "names":["Sami","Nahom","Demeke","Teshome","Ermias","CR7"],
-  "passwords":["5431","2004","1987","6329","4245","9999"],
-  "account":["1023240","132290","4200","500305","25600","10000000000"]  
-}
+[
+  {
+    "name":"Sami",
+    "account_no":100000100000
+    "balance":1399400
+  },
+  {
+    "name":"Nahom",
+    "account_no":100000100001
+    "balance":129400
+  },
+  {
+    "name":"Demeke",
+    "account_no":100000100002
+    "balance":200400
+  },
+  {
+    "name":"Teshome",
+    "account_no":100000100003
+    "balance":10023144400
+  },
+  {
+    "name":"Ermias",
+    "account_no":100000100004
+    "balance":490000
+  },
+  {
+    "name":"CR7",
+    "account_no":100000100005
+    "balance":1000000000
+  }
+]
