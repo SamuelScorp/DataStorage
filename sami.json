@@ -1,4 +1,4 @@
-bank_data = {
+{
   "name":"Sami",
   "account_no": 10000000,
   "balance": 10.00
